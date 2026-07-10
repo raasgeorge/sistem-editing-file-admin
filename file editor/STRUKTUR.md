@@ -2,7 +2,6 @@
 
 **Status:** ✅ SKELETON COMPLETE  
 **Tanggal:** 2026-07-10  
-**Location:** `C:\Users\satria\whatsapp-file-editor\`
 
 ---
 
